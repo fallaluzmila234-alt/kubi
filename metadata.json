@@ -1,0 +1,6 @@
+{
+  "name": "Una aventura con Kubi",
+  "description": "Sitio web del videojuego educativo para enseñar sobre animales mamíferos a niños de 2 a 5 años.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
